@@ -1,7 +1,8 @@
-# 🧠 Multi-Architecture Deep Learning Pipeline
+# Multi-Architecture Deep Learning Pipeline
 
 
 <img width="1701" height="604" alt="image" src="https://github.com/user-attachments/assets/61d14c28-ef39-4a2b-aa95-9dc289265385" />
+<img width="1002" height="712" alt="image" src="https://github.com/user-attachments/assets/39fcd8f4-5719-4a8a-a3c5-88f62ce7c539" />
 
 
 This repository contains a comprehensive machine learning research project. I developed a universal Python-based pipeline capable of training and evaluating neural networks across various data domains: computer vision (images), time-series forecasting, and tabular data classification/regression. 
