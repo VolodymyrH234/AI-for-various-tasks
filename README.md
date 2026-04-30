@@ -3,7 +3,8 @@
 
 <img width="1701" height="604" alt="image" src="https://github.com/user-attachments/assets/61d14c28-ef39-4a2b-aa95-9dc289265385" />
 <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/39fcd8f4-5719-4a8a-a3c5-88f62ce7c539" />
-<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/09bd960a-38a3-4e9f-96ae-371568d6527b" />
+<img width="986" height="802" alt="image" src="https://github.com/user-attachments/assets/25891a92-cd62-47c0-9bc6-be7927e1585f" />
+
 
 
 This repository contains a comprehensive machine learning research project. I developed a universal Python-based pipeline capable of training and evaluating neural networks across various data domains: computer vision (images), time-series forecasting, and tabular data classification/regression. 
